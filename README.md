@@ -1,2 +1,9 @@
 # python-learning-journey
-My journey of learning python from basic to advance .
+Hi , I am Nikita 
+I am a first-year AI and DS student.
+This repository conatins my journey of learnig Python from basics.
+## Topics covered :
+-variables and data types.
+-conditions.
+
+More coming soon ...
